@@ -26,7 +26,9 @@ https://www.python.org/downloads/
 
 Open Terminal (or Command Prompt) and run:
 
-`python -m pip install selenium webdriver-manager python-dotenv`
+```
+python -m pip install selenium webdriver-manager python-dotenv
+```
 
 ---
 
@@ -65,6 +67,7 @@ python post_multiple_announcements.py "announcement subject" "announcement messa
 
 ### Example usage
 
-`python post_multiple_announcements.py "Regarding Quiz 2" "Dear students, this is to remind you of today's quiz which will be available at 12 pm. All the best!"`
-
+```
+python post_multiple_announcements.py "Regarding Quiz 2" "Dear students, this is to remind you of today's quiz which will be available at 12 pm. All the best!"`
+```
 ---
