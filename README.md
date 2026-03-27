@@ -11,7 +11,7 @@ This script is used to post the same announcement to multiple course sections in
 ---
 
 # How to use?
-Follow the steps below to get things up and running:
+Clone the project and follow the steps below to get things up and running:
 
 ---
 
